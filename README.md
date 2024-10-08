@@ -1,1 +1,1 @@
-# Weather-Forecasting-Project
+# Weather Forecasting Project
