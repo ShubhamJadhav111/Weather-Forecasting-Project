@@ -58,7 +58,9 @@ To deploy this project run
 Clone the repository (or copy the code):
 
 https://github.com/ShubhamJadhav111/Weather-Forecasting-Project/blob/main/README.md#weather-forecasting-project
+
 <b>
+  
 Update the API key :
 
 • Replace your_actual_api_key_here in the script with your OpenWeatherMap API key :
