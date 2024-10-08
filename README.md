@@ -1,5 +1,4 @@
 # Weather Forecasting Project
-<b>
 (h1)
 Weather Forecasting Project
 
