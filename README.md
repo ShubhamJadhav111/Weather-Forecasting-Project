@@ -56,7 +56,7 @@ This Python project uses Pandas for data manipulation and Matplotlib for visuali
 ![Line Chart123](https://github.com/user-attachments/assets/48cb717c-80ca-49d0-81b8-bd758c332e4b)
 
 ## 2. Clouds Over Time
-![Bar chart 12345](https://github.com/user-attachments/assets/a06e5c37-2f71-4c5e-bf1d-acd10f24f6b4)
+![Bar Chart123](https://github.com/user-attachments/assets/4797aefc-179f-40a4-ae8b-651dc3e30b58)
 
 
 ## 3. Humidity Over Time
